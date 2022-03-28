@@ -1,0 +1,11 @@
+.keyboard {
+	display: flex;
+	flex-direction: column;
+	row-gap: 0.25rem;
+}
+
+.keyboardRow {
+	display: flex;
+	column-gap: 0.25rem;
+	justify-content: center;
+}

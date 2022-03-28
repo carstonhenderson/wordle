@@ -1,0 +1,31 @@
+.key {
+	font-size: 1rem;
+	height: 3rem;
+	width: 2rem;
+	background-color: gray;
+	border: none;
+	border-radius: 0.125rem;
+	color: white;
+}
+
+.commandKey {
+	font-size: 1rem;
+	height: 3rem;
+	width: 4rem;
+	background-color: gray;
+	border: none;
+	border-radius: 0.125rem;
+	color: white;
+}
+
+.correct {
+	background-color: green;
+}
+
+.almost {
+	background-color: goldenrod;
+}
+
+.incorrect {
+	background-color: #444;
+}

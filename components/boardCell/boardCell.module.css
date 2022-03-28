@@ -1,0 +1,22 @@
+.cell {
+	height: 4rem;
+	width: 4rem;
+	border: solid 1px gray;
+	border-radius: 0.125rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 2rem;
+}
+
+.correct {
+	background-color: green;
+}
+
+.almost {
+	background-color: goldenrod;
+}
+
+.incorrect {
+	background-color: gray;
+}
